@@ -14,6 +14,6 @@ namespace TestWcf
     {
 
         [OperationContract]
-        string GetData(int value);
+        string GetData(int value); 
     }
 }
